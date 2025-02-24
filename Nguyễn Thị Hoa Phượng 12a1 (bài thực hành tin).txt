@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html >
+<head>
+    <meta charset="UTF-8">
+    <style>
+    h1{ color: red; text-align: center;}
+    h2{ color: blue;}
+    nav{ texxt-align:left;}
+    li{display:inline-block;padding:5px;
+   border:1px solid blue;
+    background-color:pink;}
+    a:hover {color:red;  text-align: center; background-color:cyan;}
+    img{display:none;}
+    .img:active+img{display:block;}
+    body{background-color:silver;}
+    </style>
+  </head>
+<body>
+      <h1>Giới thiệu về guitar</h1>
+        <nav>
+            <ul>
+                <li><a href="#gioi-thieu">Guitar là gì</a></li>
+                <li><a href="#lich-su-ve-guitar">Lịch sử về guitar</a></li>
+                <li><a href="#loai-guitar">Loại guitar</a></li>
+                <li><a href="#cac-bo-phan-cua-guitar">Các bộ phận của guitar</a></li>
+            </ul>
+        </nav>
+  
+    
+        <h2 id="gioi-thieu">Guitar là gì</h2>
+        <p>Guitar là một loại nhạc cụ dây, được chơi bằng cách gảy hoặc chạm vào dây.</p><a href  ="https://vietthanhcenter.vn/resource/images/2023/06/slarge.cac-loai-dan-guitar-pho-bien-hien-nay.jpg  " target="_blank" > hình ảnh đàn guitar</a>
+        <h2 id="lich-su-ve-guitar">Lịch sử về guitar</h2>
+       <p>Đàn guitar có nguồn gốc từ Tây Ban Nha vào thế kỷ 16. Ban đầu, đàn guitar có 4 dây và được chơi bằng cách gảy hoặc chạm vào dây. Qua thời gian, đàn guitar đã được cải tiến và phát triển thành nhiều loại khác nhau.
+</p>
+    
+        <h2 id="loai-guitar">Loại guitar</h2>
+        <ul>
+           <p><b> 1. Đàn guitar acoustic:</b> Là loại đàn guitar không cần sử dụng âm ly. Âm thanh của đàn guitar acoustic được tạo ra bởi việc gảy hoặc chạm vào dây.</p><p><a href  ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx659sLfVkqWyfgAWxBfClXqdU-IIUSwQhlw&s  " target="_blank" > hình ảnh guitar acoustic</a></p>       
+ 
+<p><b>2. Đàn guitar điện:</b> Là loại đàn guitar cần sử dụng âm ly để phát ra âm thanh. Âm thanh của đàn guitar điện được tạo ra bởi việc gảy hoặc chạm vào dây và được khuếch đại bởi âm ly.</p><p><a href  ="https://phongvans.com/wp-content/uploads/2020/04/z2394595660916_2a6e8b5c9f8d8f6c404b7bacb7701c67.jpg  " target="_blank" > hình ảnh guitar điện</a></p>
+<p><b>3. Đàn guitar bass:</b> Là loại đàn guitar có âm thanh thấp hơn so với đàn guitar acoustic và đàn guitar điện. Đàn guitar bass thường được sử dụng trong các ban nhạc rock, pop và jazz.</p><p><a href  ="https://saigonmusical.com.vn/wp-content/uploads/2018/12/YAM-TRBX505-SUPER.jpg  " target="_blank" > hình ảnh guitar bass</a></p>
+<p><b>4. Đàn guitar cổ điển:</b> Là loại đàn guitar có thiết kế cổ điển và được sử dụng để chơi các bản nhạc cổ điển.</p><p><a href  ="https://vietthanh.vn/wp-content/uploads/2023/10/guitar-cordoba-c3m.webp  " target="_blank" > hình ảnh guitar cổ điển</a></p>
+
+        </ul>
+            <h2  id="cac-bo-phan-cua-guitar">Các bộ phận của guitar </h2>
+        <ul>
+<p><b>1 Cổ đàn:</b> Là bộ phận của đàn guitar nơi đặt các phím đàn.</p>
+<p><b>2. Thân đàn:</b> Là bộ phận của đàn guitar nơi chứa các dây đàn.</p>
+<p><b>3. Dây đàn</b>:Là các sợi dây được căng trên cổ đàn và thân đàn để tạo ra âm thanh.</p>
+<p><b>4. Phím đàn:</b> Là các phím được đặt trên cổ đàn để tạo ra các nốt nhạc khác nhau.</p>
+<p><b>5. Âm ly:</b> Là bộ phận của đàn guitar điện được sử dụng để khuếch đại âm thanh.</p>
+</ul>
+    
+    <footer>
+        <p> NGUYENPHUONG-GUITAR.VN</p>
+    </footer>
+</body>
+</html>
